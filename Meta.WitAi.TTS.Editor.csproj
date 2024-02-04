@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{72650AAE-013C-BEB0-DD41-064EA700D9F8}</ProjectGuid>
+    <ProjectGuid>{A0605100-77F7-5139-C661-271CBF89D7A4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Meta.WitAi.TTS.Editor</AssemblyName>
@@ -992,23 +992,23 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Meta.WitAi.csproj">
-      <Project>{4A803DE3-DEC8-C6C8-21EC-BE129FCC885F}</Project>
+      <Project>{5CAE1EAB-E88F-7782-AF37-4E3AE6E59B9E}</Project>
       <Name>Meta.WitAi</Name>
     </ProjectReference>
     <ProjectReference Include="Meta.WitAi.Editor.csproj">
-      <Project>{ECDDBE5A-232A-6F43-8E6F-975F9ECABF6E}</Project>
+      <Project>{5B629928-E3AE-4EAE-F322-E9C9C3C5C930}</Project>
       <Name>Meta.WitAi.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Meta.WitAi.TTS.csproj">
-      <Project>{10A905EA-99F5-5062-D0B9-B5935BDF876D}</Project>
+      <Project>{D593AFB9-7ECF-7E53-54D0-54EA180DAEA0}</Project>
       <Name>Meta.WitAi.TTS</Name>
     </ProjectReference>
     <ProjectReference Include="Meta.WitAi.Lib.csproj">
-      <Project>{B2637AA7-BCF1-DE1F-3A88-3B35B0375B80}</Project>
+      <Project>{7A06C542-0BDA-D0AE-C11F-AF1EE0355C5A}</Project>
       <Name>Meta.WitAi.Lib</Name>
     </ProjectReference>
     <ProjectReference Include="Meta.WitAI.Lib.Editor.csproj">
-      <Project>{E200CE5A-BE36-845C-B5EC-E5710A0878CC}</Project>
+      <Project>{8005C870-7A77-E833-9A84-BC338FBE22F2}</Project>
       <Name>Meta.WitAI.Lib.Editor</Name>
     </ProjectReference>
   </ItemGroup>

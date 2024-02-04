@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{233D2FCE-DA1D-3D8E-6FD7-90E6A0BA917A}</ProjectGuid>
+    <ProjectGuid>{7663A25D-116A-2199-0FBD-BF971C63312F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Meta.WitAi.Conduit</AssemblyName>
@@ -969,7 +969,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Meta.WitAi.Lib.csproj">
-      <Project>{B2637AA7-BCF1-DE1F-3A88-3B35B0375B80}</Project>
+      <Project>{7A06C542-0BDA-D0AE-C11F-AF1EE0355C5A}</Project>
       <Name>Meta.WitAi.Lib</Name>
     </ProjectReference>
   </ItemGroup>

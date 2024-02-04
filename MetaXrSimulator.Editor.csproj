@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{90C24C5B-C0F1-922F-A09B-0BC460915C4B}</ProjectGuid>
+    <ProjectGuid>{E43D29AB-6329-26C9-BBBC-8339171898FA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>MetaXrSimulator.Editor</AssemblyName>

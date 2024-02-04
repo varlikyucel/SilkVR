@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{B2637AA7-BCF1-DE1F-3A88-3B35B0375B80}</ProjectGuid>
+    <ProjectGuid>{7A06C542-0BDA-D0AE-C11F-AF1EE0355C5A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Meta.WitAi.Lib</AssemblyName>

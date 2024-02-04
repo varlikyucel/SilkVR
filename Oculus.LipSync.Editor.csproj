@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{CE213BF2-0B9C-BB37-3BD5-6C337FB2C519}</ProjectGuid>
+    <ProjectGuid>{7D32110D-1E55-701D-CF33-32140297C015}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Oculus.LipSync.Editor</AssemblyName>
@@ -988,7 +988,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Oculus.LipSync.csproj">
-      <Project>{1B52D90B-4FDC-4050-3DFE-0C4399F93C77}</Project>
+      <Project>{521AA772-E7F9-68D8-9D48-C8F1F94AF66A}</Project>
       <Name>Oculus.LipSync</Name>
     </ProjectReference>
   </ItemGroup>

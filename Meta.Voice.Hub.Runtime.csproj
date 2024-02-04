@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>Meta.Voice.Hub</RootNamespace>
-    <ProjectGuid>{7485B470-A081-B9CC-0870-05E8E9FBB92A}</ProjectGuid>
+    <ProjectGuid>{BFE43F7E-7191-DA3E-8F29-2E3504A8C00E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Meta.Voice.Hub.Runtime</AssemblyName>
