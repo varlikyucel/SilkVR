@@ -1,7 +1,7 @@
 # SilkVR
  SilkVR Apllication for Meta Quest (Work in Progress)
 
-# Version Controll
+# Version Control
 
 Unity 2022.3.16f1
 https://unity.com/releases/editor/whats-new/2022.3.16
@@ -9,8 +9,8 @@ https://unity.com/releases/editor/whats-new/2022.3.16
 # Required Modules
 
 Andriod Build Support
-    Open JDK
-    Android SDK & NDK Tools
+    //Open JDK
+    //Android SDK & NDK Tools
 
 Windows Build Support (IL2CPP)
 
@@ -31,7 +31,9 @@ https://developer.oculus.com/documentation/unity/xrsim-intro/
 # Build Settings
 
 Platform: Android
+
 Texture Compression: ASTC
+
 Max Texture Size: Max 2048
 
 # Built-in Simulator
