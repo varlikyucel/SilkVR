@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{F1AA53CE-2DCC-EDA9-A4B7-1E3BAADB3738}</ProjectGuid>
+    <ProjectGuid>{7965B3D9-D7F2-70B4-DAD6-5B786921F157}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Meta.Voice.Samples.Dictation</AssemblyName>
@@ -950,15 +950,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Meta.WitAi.Lib.csproj">
-      <Project>{7A06C542-0BDA-D0AE-C11F-AF1EE0355C5A}</Project>
+      <Project>{392A439D-2635-0072-2B2C-65EDD5F4A462}</Project>
       <Name>Meta.WitAi.Lib</Name>
     </ProjectReference>
     <ProjectReference Include="Meta.WitAi.csproj">
-      <Project>{5CAE1EAB-E88F-7782-AF37-4E3AE6E59B9E}</Project>
+      <Project>{286370B0-C9A5-E875-33BF-0EB58198E3D8}</Project>
       <Name>Meta.WitAi</Name>
     </ProjectReference>
     <ProjectReference Include="Facebook.Wit.Dictation.csproj">
-      <Project>{E8FEFC8F-5703-DEE3-E151-8939983BEE0F}</Project>
+      <Project>{F5D8E225-AD0B-AD56-0613-2589B0755716}</Project>
       <Name>Facebook.Wit.Dictation</Name>
     </ProjectReference>
   </ItemGroup>

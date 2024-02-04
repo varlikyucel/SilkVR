@@ -1,6 +1,8 @@
 # SilkVR
  SilkVR Apllication for Meta Quest (Work in Progress)
 
+Locate "SilkVR-UnityProject" in Unity Hub to start work on the project.
+
 # Version Control
 
 Unity 2022.3.16f1

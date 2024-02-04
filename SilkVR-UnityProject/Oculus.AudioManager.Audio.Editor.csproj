@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{A6D68D5E-10C6-AD96-F995-A7D2A01025AE}</ProjectGuid>
+    <ProjectGuid>{89D29ABC-697D-80A3-B67E-DAF65F8CC7AC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Oculus.AudioManager.Audio.Editor</AssemblyName>
@@ -991,7 +991,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Oculus.AudioManager.csproj">
-      <Project>{90CC7778-C80B-B1F4-E723-E4528FDCE931}</Project>
+      <Project>{B0C41088-2D8F-5445-8D82-803583762E49}</Project>
       <Name>Oculus.AudioManager</Name>
     </ProjectReference>
   </ItemGroup>

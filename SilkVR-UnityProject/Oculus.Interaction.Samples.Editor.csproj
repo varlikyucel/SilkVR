@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{137D0C89-E74C-BD23-37CE-3B958253554D}</ProjectGuid>
+    <ProjectGuid>{1517FA4D-DB4F-1CED-1FA6-7C67D64A4589}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Oculus.Interaction.Samples.Editor</AssemblyName>
@@ -985,15 +985,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Oculus.Interaction.Editor.csproj">
-      <Project>{B0B0F252-E705-D07E-0626-715F92F6A3DF}</Project>
+      <Project>{16FE10EF-814F-65A6-F2FD-8BFC363C3BA1}</Project>
       <Name>Oculus.Interaction.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.Interaction.csproj">
-      <Project>{8414C99B-9249-53DA-AADE-3E9EBE9360B4}</Project>
+      <Project>{B1BE11D3-BCD1-C2D0-37CA-4578F5036A2A}</Project>
       <Name>Oculus.Interaction</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.Interaction.OVR.Samples.csproj">
-      <Project>{D326B6F6-3835-D722-E6B1-D503DA8EBD18}</Project>
+      <Project>{315C7019-16A2-1B34-8A80-9450F56E25CA}</Project>
       <Name>Oculus.Interaction.OVR.Samples</Name>
     </ProjectReference>
   </ItemGroup>

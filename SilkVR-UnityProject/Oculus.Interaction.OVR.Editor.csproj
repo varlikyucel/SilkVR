@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{483634A0-6B84-B653-CAFA-9B1E5F2E1DC5}</ProjectGuid>
+    <ProjectGuid>{65C8911D-E298-F9D7-9CCD-DE6307ADBE9F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Oculus.Interaction.OVR.Editor</AssemblyName>
@@ -993,31 +993,31 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Oculus.Interaction.csproj">
-      <Project>{8414C99B-9249-53DA-AADE-3E9EBE9360B4}</Project>
+      <Project>{B1BE11D3-BCD1-C2D0-37CA-4578F5036A2A}</Project>
       <Name>Oculus.Interaction</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.Interaction.Editor.csproj">
-      <Project>{B0B0F252-E705-D07E-0626-715F92F6A3DF}</Project>
+      <Project>{16FE10EF-814F-65A6-F2FD-8BFC363C3BA1}</Project>
       <Name>Oculus.Interaction.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.Interaction.OVR.csproj">
-      <Project>{B081A8A6-8D28-CD86-DE56-7D4FA124EFB4}</Project>
+      <Project>{7B30875B-F4D3-95A3-7B18-917B564F8D42}</Project>
       <Name>Oculus.Interaction.OVR</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.VR.csproj">
-      <Project>{B297CC14-B497-4753-E37C-2DFE5C7B22D7}</Project>
+      <Project>{7ED3B8C6-1557-EDB5-E8E4-B4E3A7D2A63B}</Project>
       <Name>Oculus.VR</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.VR.Editor.csproj">
-      <Project>{60813A9A-F606-118D-C379-97CE4CCA35D2}</Project>
+      <Project>{6D26A256-8EF9-9119-EDED-058559A8FB80}</Project>
       <Name>Oculus.VR.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Meta.XR.BuildingBlocks.Editor.csproj">
-      <Project>{F6A170AF-8EAF-8FA4-19E4-40E06D46CC43}</Project>
+      <Project>{F6893D8A-1D05-EE83-6954-803745AA9206}</Project>
       <Name>Meta.XR.BuildingBlocks.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Meta.XR.BuildingBlocks.csproj">
-      <Project>{75658024-D763-6EFE-3D67-7D862C0A8FE8}</Project>
+      <Project>{836BF11A-CCCD-3B3A-4313-E00F50B675D0}</Project>
       <Name>Meta.XR.BuildingBlocks</Name>
     </ProjectReference>
   </ItemGroup>

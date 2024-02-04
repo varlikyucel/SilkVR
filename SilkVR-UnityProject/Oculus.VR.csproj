@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{B297CC14-B497-4753-E37C-2DFE5C7B22D7}</ProjectGuid>
+    <ProjectGuid>{7ED3B8C6-1557-EDB5-E8E4-B4E3A7D2A63B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Oculus.VR</AssemblyName>

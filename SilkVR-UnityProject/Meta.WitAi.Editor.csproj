@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{5B629928-E3AE-4EAE-F322-E9C9C3C5C930}</ProjectGuid>
+    <ProjectGuid>{A23A16D3-F03F-B4B3-2550-95CC97D946BE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Meta.WitAi.Editor</AssemblyName>
@@ -1040,31 +1040,31 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Meta.WitAi.Lib.csproj">
-      <Project>{7A06C542-0BDA-D0AE-C11F-AF1EE0355C5A}</Project>
+      <Project>{392A439D-2635-0072-2B2C-65EDD5F4A462}</Project>
       <Name>Meta.WitAi.Lib</Name>
     </ProjectReference>
     <ProjectReference Include="Meta.WitAi.csproj">
-      <Project>{5CAE1EAB-E88F-7782-AF37-4E3AE6E59B9E}</Project>
+      <Project>{286370B0-C9A5-E875-33BF-0EB58198E3D8}</Project>
       <Name>Meta.WitAi</Name>
     </ProjectReference>
     <ProjectReference Include="Meta.WitAi.Conduit.csproj">
-      <Project>{7663A25D-116A-2199-0FBD-BF971C63312F}</Project>
+      <Project>{F98A00DF-3952-45F5-5A25-A55727E3A791}</Project>
       <Name>Meta.WitAi.Conduit</Name>
     </ProjectReference>
     <ProjectReference Include="Meta.WitAi.Conduit.Editor.csproj">
-      <Project>{6F2D488A-0856-AD22-41A9-737944F1174C}</Project>
+      <Project>{9EDA577D-441F-9ED8-BF49-18B084322234}</Project>
       <Name>Meta.WitAi.Conduit.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Meta.WitAI.Lib.Editor.csproj">
-      <Project>{8005C870-7A77-E833-9A84-BC338FBE22F2}</Project>
+      <Project>{76A103CE-AA6C-4CBF-AAB7-C7077F8B0D05}</Project>
       <Name>Meta.WitAI.Lib.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Meta.VoiceSDK.Mic.Other.csproj">
-      <Project>{095CE747-7107-859E-5BCB-9EAA4CC10EB9}</Project>
+      <Project>{85A3DFA4-B7B8-1B95-F6C9-57ED999D910F}</Project>
       <Name>Meta.VoiceSDK.Mic.Other</Name>
     </ProjectReference>
     <ProjectReference Include="VoiceSDK.Telemetry.csproj">
-      <Project>{3EB82243-BE1F-3ACA-234A-A352C49ADA51}</Project>
+      <Project>{2EC3C841-DCA1-7AC9-4F78-BFF6AA3FF18A}</Project>
       <Name>VoiceSDK.Telemetry</Name>
     </ProjectReference>
   </ItemGroup>
