@@ -1,2 +1,0 @@
-# SilkVR
- SilkVR for Meta 
