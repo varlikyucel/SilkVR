@@ -578,9 +578,9 @@
 "Assets/Oculus/SampleFramework/Usage/TouchPro/Scripts/Ui/UiDeviceInspector.cs"
 "Assets/Oculus/SampleFramework/Usage/TouchPro/Scripts/Ui/UiSceneMenu.cs"
 "Assets/Oculus/SampleFramework/Usage/TouchPro/Scripts/Ui/UiVectorInspector.cs"
-"Assets/Scripts/ConstantRotation.cs"
-"Assets/Scripts/ScaleAndRotate.cs"
-"Assets/Scripts/SceneLoader.cs"
+"Assets/_Scripts/ConstantRotation.cs"
+"Assets/_Scripts/ScaleAndRotate.cs"
+"Assets/_Scripts/SceneLoader.cs"
 -langversion:9.0
 
 /deterministic
