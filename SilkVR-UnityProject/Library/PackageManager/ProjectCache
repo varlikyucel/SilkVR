@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638430582619415912
-    m_Hash: 3229326467
+      ticks: 638430261094319400
+    m_Hash: 865136419
   m_LockFileStatus:
     m_FilePath: D:/GitHub/SilkVR/SilkVR-UnityProject/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638430582619415912
-    m_Hash: 200368100
+      ticks: 638430261095089414
+    m_Hash: 1618119134
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:

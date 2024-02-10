@@ -1241,6 +1241,10 @@
       <Project>{F64515B4-D50A-980E-D3CC-BD721B527865}</Project>
       <Name>Oculus.Spatializer</Name>
     </ProjectReference>
+    <ProjectReference Include="MetaXrSimulator.Editor.csproj">
+      <Project>{5FD0EC81-6AD5-E6DF-22D4-774DCBDAD20C}</Project>
+      <Name>MetaXrSimulator.Editor</Name>
+    </ProjectReference>
     <ProjectReference Include="Meta.Voice.Hub.Editor.csproj">
       <Project>{676D2A3E-B404-7AC6-6F44-170A960BBD27}</Project>
       <Name>Meta.Voice.Hub.Editor</Name>
