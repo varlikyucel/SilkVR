@@ -2254,6 +2254,37 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 967567311}
   m_CullTransparentMesh: 0
+--- !u!1 &980180198
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 980180199}
+  m_Layer: 0
+  m_Name: SlicingPlane
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &980180199
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 980180198}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 1, w: 0}
+  m_LocalPosition: {x: -1.1, y: 14.7, z: 2.77}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 180}
 --- !u!1 &1014857018
 GameObject:
   m_ObjectHideFlags: 0
@@ -8937,7 +8968,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4617f902d9cb1a64eaba6d20b9b43b45, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2000080248}
   m_SourcePrefab: {fileID: 100100000, guid: 4617f902d9cb1a64eaba6d20b9b43b45, type: 3}
 --- !u!1 &1931687331
 GameObject:
@@ -9131,6 +9165,24 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1936063055}
   m_CullTransparentMesh: 1
+--- !u!1 &2000080247 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4617f902d9cb1a64eaba6d20b9b43b45, type: 3}
+  m_PrefabInstance: {fileID: 1920570830}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2000080248
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2000080247}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d742157db0738334db42dc38f8fd7efd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slicePlane: {fileID: 980180199}
 --- !u!1 &196977305468683332
 GameObject:
   m_ObjectHideFlags: 0
@@ -11147,3 +11199,4 @@ SceneRoots:
   - {fileID: 1920570830}
   - {fileID: 1517064576}
   - {fileID: 1931687336}
+  - {fileID: 980180199}
