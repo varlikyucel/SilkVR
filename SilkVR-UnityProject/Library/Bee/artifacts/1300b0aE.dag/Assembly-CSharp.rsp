@@ -583,6 +583,7 @@
 "Assets/_Scripts/FadeFromBlack.cs"
 "Assets/_Scripts/LevelSpecificActivation.cs"
 "Assets/_Scripts/LightIntensityController.cs"
+"Assets/_Scripts/PhotoGallery.cs"
 "Assets/_Scripts/ScaleAndRotate.cs"
 "Assets/_Scripts/SceneLoader.cs"
 "Assets/_Scripts/SoundManager.cs"
