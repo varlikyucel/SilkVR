@@ -5,28 +5,46 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< Updated upstream
       ticks: 638426717758979304
     m_Hash: 1628932703
+=======
+      ticks: 638505225980000000
+    m_Hash: 3229326467
+>>>>>>> Stashed changes
   m_LockFileStatus:
     m_FilePath: D:/GitHub/SilkVR/SilkVR-UnityProject/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< Updated upstream
       ticks: 638426717760088826
     m_Hash: 19248446
+=======
+      ticks: 638505225980000000
+    m_Hash: 200368100
+>>>>>>> Stashed changes
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus:
+<<<<<<< Updated upstream
   - m_FilePath: C:\Users\PHD\Downloads\com.meta.xr.simulator-60.0.0\package/package.json
+=======
+  - m_FilePath: D:\GitHub\SilkVR\SilkVR-UnityProject\Packages\com.meta.xr.simulator-60.0.0\package/package.json
+>>>>>>> Stashed changes
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
       ticks: 626347593000000000
     m_Hash: 1285295288
+<<<<<<< Updated upstream
   - m_FilePath: C:\Users\PHD\Downloads\com.meta.xr.simulator-60.0.0\package
+=======
+  - m_FilePath: D:\GitHub\SilkVR\SilkVR-UnityProject\Packages\com.meta.xr.simulator-60.0.0\package
+>>>>>>> Stashed changes
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -36,12 +54,20 @@ m_LocalPackages:
 m_ProjectPath: D:/GitHub/SilkVR/SilkVR-UnityProject/Packages
 m_EditorVersion: 2022.3.16f1 (d2c21f0ef2f1)
 m_ResolvedPackages:
+<<<<<<< Updated upstream
 - packageId: com.meta.xr.simulator@file:C:\Users\PHD\Downloads\com.meta.xr.simulator-60.0.0\package
+=======
+- packageId: com.meta.xr.simulator@file:D:\GitHub\SilkVR\SilkVR-UnityProject\Packages\com.meta.xr.simulator-60.0.0\package
+>>>>>>> Stashed changes
   testable: 0
   isDirectDependency: 1
   version: 60.0.0
   source: 4
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\PHD\Downloads\com.meta.xr.simulator-60.0.0\package
+=======
+  resolvedPath: D:\GitHub\SilkVR\SilkVR-UnityProject\Packages\com.meta.xr.simulator-60.0.0\package
+>>>>>>> Stashed changes
   assetPath: Packages/com.meta.xr.simulator
   name: com.meta.xr.simulator
   displayName: Meta XR Simulator
@@ -60,10 +86,26 @@ m_ResolvedPackages:
     - 57.0.0
     - 59.0.0
     - 60.0.0
+<<<<<<< Updated upstream
+=======
+    - 62.0.0
+    - 64.0.0
+    - 65.0.0
+    - 66.0.1
+    - 68.0.0
+>>>>>>> Stashed changes
     compatible:
     - 57.0.0
     - 59.0.0
     - 60.0.0
+<<<<<<< Updated upstream
+=======
+    - 62.0.0
+    - 64.0.0
+    - 65.0.0
+    - 66.0.1
+    - 68.0.0
+>>>>>>> Stashed changes
     recommended: 
     deprecated: []
   dependencies: []
@@ -191,8 +233,19 @@ m_ResolvedPackages:
     - 2.1.0-preview.6
     - 2.1.0
     - 2.2.0
+<<<<<<< Updated upstream
     compatible:
     - 2.2.0
+=======
+    - 2.3.1
+    - 2.4.3
+    - 2.4.4
+    compatible:
+    - 2.2.0
+    - 2.3.1
+    - 2.4.3
+    - 2.4.4
+>>>>>>> Stashed changes
     recommended: 2.2.0
     deprecated: []
   dependencies: []
@@ -610,6 +663,11 @@ m_ResolvedPackages:
     - 3.0.5
     - 3.0.6
     - 3.0.7
+<<<<<<< Updated upstream
+=======
+    - 3.0.8
+    - 3.0.9
+>>>>>>> Stashed changes
     - 3.2.0-pre.1
     - 3.2.0-pre.2
     - 3.2.0-pre.3
@@ -618,11 +676,21 @@ m_ResolvedPackages:
     - 3.2.0-pre.6
     - 3.2.0-pre.7
     - 3.2.0-pre.8
+<<<<<<< Updated upstream
+=======
+    - 3.2.0-pre.9
+    - 3.2.0-pre.10
+>>>>>>> Stashed changes
     - 4.0.0-pre.1
     - 4.0.0-pre.2
     compatible:
     - 3.0.6
     - 3.0.7
+<<<<<<< Updated upstream
+=======
+    - 3.0.8
+    - 3.0.9
+>>>>>>> Stashed changes
     - 3.2.0-pre.1
     - 3.2.0-pre.2
     - 3.2.0-pre.3
@@ -631,9 +699,17 @@ m_ResolvedPackages:
     - 3.2.0-pre.6
     - 3.2.0-pre.7
     - 3.2.0-pre.8
+<<<<<<< Updated upstream
     - 4.0.0-pre.1
     - 4.0.0-pre.2
     recommended: 3.0.7
+=======
+    - 3.2.0-pre.9
+    - 3.2.0-pre.10
+    - 4.0.0-pre.1
+    - 4.0.0-pre.2
+    recommended: 3.0.9
+>>>>>>> Stashed changes
     deprecated: []
   dependencies:
   - name: com.unity.ugui
@@ -783,6 +859,7 @@ m_ResolvedPackages:
     - 1.8.4
     - 1.8.5
     - 1.8.6
+    - 1.8.7
     compatible:
     - 1.7.6
     - 1.8.0
@@ -792,21 +869,22 @@ m_ResolvedPackages:
     - 1.8.4
     - 1.8.5
     - 1.8.6
+    - 1.8.7
     recommended: 1.7.6
     deprecated: []
   dependencies:
+  - name: com.unity.modules.audio
+    version: 1.0.0
   - name: com.unity.modules.director
     version: 1.0.0
   - name: com.unity.modules.animation
     version: 1.0.0
-  - name: com.unity.modules.audio
-    version: 1.0.0
   - name: com.unity.modules.particlesystem
     version: 1.0.0
   resolvedDependencies:
-  - name: com.unity.modules.director
-    version: 1.0.0
   - name: com.unity.modules.audio
+    version: 1.0.0
+  - name: com.unity.modules.director
     version: 1.0.0
   - name: com.unity.modules.animation
     version: 1.0.0
@@ -870,6 +948,7 @@ m_ResolvedPackages:
     - 1.0.0
     - 3.0.0-exp.1
     - 3.0.0-exp.3
+    - 3.0.0-exp.4
     compatible:
     - 1.0.0
     recommended: 1.0.0
@@ -965,9 +1044,19 @@ m_ResolvedPackages:
     - 1.8.0
     - 1.9.0
     - 1.9.1
+<<<<<<< Updated upstream
     compatible:
     - 1.9.1
     recommended: 1.9.1
+=======
+    - 1.9.2
+    - 1.9.4
+    compatible:
+    - 1.9.1
+    - 1.9.2
+    - 1.9.4
+    recommended: 1.9.4
+>>>>>>> Stashed changes
     deprecated:
     - 1.8.0-pre.1
   dependencies:
@@ -1073,43 +1162,71 @@ m_ResolvedPackages:
     - 2.5.0
     - 2.5.1
     - 2.5.2
+<<<<<<< Updated upstream
     - 3.0.0-pre.1
     compatible:
     - 2.5.2
     - 3.0.0-pre.1
     recommended: 2.5.2
+=======
+    - 2.5.3
+    - 2.5.4
+    - 2.6.3
+    - 3.0.0-pre.1
+    - 3.0.0-pre.2
+    - 3.0.0
+    - 3.0.1
+    - 3.0.3
+    - 3.0.4
+    - 3.0.5
+    compatible:
+    - 2.5.2
+    - 2.5.3
+    - 2.5.4
+    - 2.6.3
+    - 3.0.0-pre.1
+    - 3.0.0-pre.2
+    - 3.0.0
+    - 3.0.1
+    - 3.0.3
+    - 3.0.4
+    - 3.0.5
+    recommended: 2.5.4
+>>>>>>> Stashed changes
     deprecated: []
   dependencies:
+  - name: com.unity.ugui
+    version: 1.0.0
   - name: com.unity.inputsystem
     version: 1.7.0
   - name: com.unity.mathematics
     version: 1.2.6
-  - name: com.unity.ugui
-    version: 1.0.0
-  - name: com.unity.xr.core-utils
-    version: 2.2.3
-  - name: com.unity.xr.legacyinputhelpers
-    version: 2.1.10
   - name: com.unity.modules.audio
     version: 1.0.0
   - name: com.unity.modules.imgui
     version: 1.0.0
+  - name: com.unity.xr.core-utils
+    version: 2.2.3
   - name: com.unity.modules.physics
     version: 1.0.0
+  - name: com.unity.xr.legacyinputhelpers
+    version: 2.1.10
   resolvedDependencies:
-  - name: com.unity.inputsystem
-    version: 1.7.0
-  - name: com.unity.modules.uielements
+  - name: com.unity.ugui
     version: 1.0.0
   - name: com.unity.modules.ui
     version: 1.0.0
   - name: com.unity.modules.imgui
     version: 1.0.0
+  - name: com.unity.inputsystem
+    version: 1.7.0
+  - name: com.unity.modules.uielements
+    version: 1.0.0
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
   - name: com.unity.mathematics
     version: 1.2.6
-  - name: com.unity.ugui
+  - name: com.unity.modules.audio
     version: 1.0.0
   - name: com.unity.xr.core-utils
     version: 2.2.3
@@ -1122,8 +1239,6 @@ m_ResolvedPackages:
   - name: com.unity.xr.legacyinputhelpers
     version: 2.1.10
   - name: com.unity.modules.vr
-    version: 1.0.0
-  - name: com.unity.modules.audio
     version: 1.0.0
   keywords:
   - XR
@@ -1231,30 +1346,32 @@ m_ResolvedPackages:
     - 4.3.3
     - 4.4.0
     - 4.4.1
+    - 4.5.0
     compatible:
     - 4.4.0
     - 4.4.1
+    - 4.5.0
     recommended: 4.4.1
     deprecated: []
   dependencies:
-  - name: com.unity.modules.subsystems
-    version: 1.0.0
   - name: com.unity.modules.vr
     version: 1.0.0
   - name: com.unity.modules.xr
+    version: 1.0.0
+  - name: com.unity.modules.subsystems
     version: 1.0.0
   - name: com.unity.xr.legacyinputhelpers
     version: 2.1.7
   resolvedDependencies:
-  - name: com.unity.modules.subsystems
+  - name: com.unity.modules.vr
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.modules.vr
     version: 1.0.0
   - name: com.unity.modules.physics
     version: 1.0.0
   - name: com.unity.modules.xr
+    version: 1.0.0
+  - name: com.unity.modules.subsystems
     version: 1.0.0
   - name: com.unity.xr.legacyinputhelpers
     version: 2.1.10
@@ -1390,10 +1507,20 @@ m_ResolvedPackages:
     - 4.1.2
     - 4.2.0-exp-env-depth.1
     - 4.2.0-exp-env-depth.2
+<<<<<<< Updated upstream
+=======
+    - 4.2.0
+    - 4.3.0-pre.1
+>>>>>>> Stashed changes
     compatible:
     - 4.1.2
     - 4.2.0-exp-env-depth.1
     - 4.2.0-exp-env-depth.2
+<<<<<<< Updated upstream
+=======
+    - 4.2.0
+    - 4.3.0-pre.1
+>>>>>>> Stashed changes
     recommended: 4.1.2
     deprecated: []
   dependencies:
@@ -1402,15 +1529,15 @@ m_ResolvedPackages:
   resolvedDependencies:
   - name: com.unity.xr.management
     version: 4.4.1
-  - name: com.unity.modules.subsystems
+  - name: com.unity.modules.vr
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.modules.vr
     version: 1.0.0
   - name: com.unity.modules.physics
     version: 1.0.0
   - name: com.unity.modules.xr
+    version: 1.0.0
+  - name: com.unity.modules.subsystems
     version: 1.0.0
   - name: com.unity.xr.legacyinputhelpers
     version: 2.1.10
@@ -1496,35 +1623,37 @@ m_ResolvedPackages:
     - 1.8.2
     - 1.9.1
     - 1.10.0
+<<<<<<< Updated upstream
     compatible:
     - 1.9.1
     - 1.10.0
+=======
+    - 1.11.0-exp.1
+    - 1.11.0
+    - 1.11.1-exp.1
+    - 1.12.0-exp.1
+    - 1.12.0
+    compatible:
+    - 1.9.1
+    - 1.10.0
+    - 1.11.0-exp.1
+    - 1.11.0
+    - 1.11.1-exp.1
+    - 1.12.0-exp.1
+    - 1.12.0
+>>>>>>> Stashed changes
     recommended: 1.9.1
     deprecated: []
   dependencies:
-  - name: com.unity.xr.management
-    version: 4.4.0
-  - name: com.unity.xr.legacyinputhelpers
-    version: 2.1.2
   - name: com.unity.inputsystem
     version: 1.6.3
   - name: com.unity.xr.core-utils
     version: 2.1.1
-  resolvedDependencies:
   - name: com.unity.xr.management
-    version: 4.4.1
-  - name: com.unity.modules.subsystems
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.modules.vr
-    version: 1.0.0
-  - name: com.unity.modules.physics
-    version: 1.0.0
-  - name: com.unity.modules.xr
-    version: 1.0.0
+    version: 4.4.0
   - name: com.unity.xr.legacyinputhelpers
-    version: 2.1.10
+    version: 2.1.2
+  resolvedDependencies:
   - name: com.unity.inputsystem
     version: 1.7.0
   - name: com.unity.modules.uielements
@@ -1533,8 +1662,22 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.modules.imgui
     version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
   - name: com.unity.xr.core-utils
     version: 2.2.3
+  - name: com.unity.modules.xr
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.subsystems
+    version: 1.0.0
+  - name: com.unity.xr.management
+    version: 4.4.1
+  - name: com.unity.modules.vr
+    version: 1.0.0
+  - name: com.unity.xr.legacyinputhelpers
+    version: 2.1.10
   keywords:
   - openxr
   - xr
@@ -3467,6 +3610,7 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+<<<<<<< Updated upstream
 - packageId: com.unity.xr.legacyinputhelpers@2.1.10
   testable: 0
   isDirectDependency: 0
@@ -3569,6 +3713,8 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+=======
+>>>>>>> Stashed changes
 - packageId: com.unity.inputsystem@1.7.0
   testable: 0
   isDirectDependency: 0
@@ -3633,10 +3779,26 @@ m_ResolvedPackages:
     - 1.7.0
     - 1.8.0-pre.1
     - 1.8.0-pre.2
+<<<<<<< Updated upstream
+=======
+    - 1.8.0
+    - 1.8.1
+    - 1.8.2
+    - 1.9.0
+    - 1.10.0
+>>>>>>> Stashed changes
     compatible:
     - 1.7.0
     - 1.8.0-pre.1
     - 1.8.0-pre.2
+<<<<<<< Updated upstream
+=======
+    - 1.8.0
+    - 1.8.1
+    - 1.8.2
+    - 1.9.0
+    - 1.10.0
+>>>>>>> Stashed changes
     recommended: 1.7.0
     deprecated: []
   dependencies:
@@ -3785,6 +3947,108 @@ m_ResolvedPackages:
     path: 
   unityLifecycle:
     version: 2.2.3
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.xr.legacyinputhelpers@2.1.10
+  testable: 0
+  isDirectDependency: 0
+  version: 2.1.10
+  source: 1
+  resolvedPath: D:\GitHub\SilkVR\SilkVR-UnityProject\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.10
+  assetPath: Packages/com.unity.xr.legacyinputhelpers
+  name: com.unity.xr.legacyinputhelpers
+  displayName: XR Legacy Input Helpers
+  author:
+    name: 
+    email: 
+    url: 
+  category: XR
+  type: asset
+  description: This package includes the tracked pose driver for the legacy input
+    system, the XR Bindings Seeding Tool and 3Dof Arm Model support for the Tracked
+    Pose Driver. The Tracked Pose Driver is a behavior that enables GameObjects to
+    track input devices, the XR Bindings Seeding Tool adds a menu item under the
+    'Assets' menu which populates the Input Asset with Unity's crossplatform Input
+    Bindings
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    - 1.0.2
+    - 1.0.3
+    - 1.3.1
+    - 1.3.2
+    - 1.3.4
+    - 1.3.5
+    - 1.3.6
+    - 1.3.7
+    - 1.3.8
+    - 1.3.11
+    - 2.0.1
+    - 2.0.2
+    - 2.0.4
+    - 2.0.6
+    - 2.0.8
+    - 2.1.1
+    - 2.1.2
+    - 2.1.3
+    - 2.1.4
+    - 2.1.6
+    - 2.1.7
+    - 2.1.8
+    - 2.1.9
+    - 2.1.10
+    compatible:
+    - 2.1.10
+    recommended: 2.1.10
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.vr
+    version: 1.0.0
+  - name: com.unity.modules.xr
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.vr
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.xr
+    version: 1.0.0
+  - name: com.unity.modules.subsystems
+    version: 1.0.0
+  keywords:
+  - TPD
+  - Tracked Pose Driver
+  - XR
+  - Input
+  - Helpers
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637958908030000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.xr.legacyinputhelpers.git
+    revision: 465ee12451634ea2b2986d54f6ae8be37316772a
+    path: 
+  unityLifecycle:
+    version: 2.1.10
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -4019,9 +4283,19 @@ m_ResolvedPackages:
     - 3.0.25
     - 3.0.26
     - 3.0.27
+<<<<<<< Updated upstream
     compatible:
     - 3.0.27
     recommended: 3.0.27
+=======
+    - 3.0.28
+    - 3.0.31
+    compatible:
+    - 3.0.27
+    - 3.0.28
+    - 3.0.31
+    recommended: 3.0.31
+>>>>>>> Stashed changes
     deprecated: []
   dependencies:
   - name: com.unity.ext.nunit
@@ -4327,6 +4601,8 @@ m_ResolvedPackages:
     - 1.4.1
     - 1.4.2
     - 1.4.3
+    - 1.4.4
+    - 1.4.5
     - 2.0.1-exp.1
     - 2.0.1-exp.2
     - 2.0.1-pre.12
@@ -4346,6 +4622,8 @@ m_ResolvedPackages:
     - 1.4.1
     - 1.4.2
     - 1.4.3
+    - 1.4.4
+    - 1.4.5
     - 2.0.1-exp.1
     - 2.0.1-exp.2
     - 2.0.1-pre.12
@@ -4449,10 +4727,12 @@ m_ResolvedPackages:
     - 1.2.3
     - 1.2.4
     - 1.2.5
+    - 1.2.6
     compatible:
     - 1.2.4
     - 1.2.5
-    recommended: 1.2.5
+    - 1.2.6
+    recommended: 1.2.6
     deprecated: []
   dependencies:
   - name: com.unity.test-framework
