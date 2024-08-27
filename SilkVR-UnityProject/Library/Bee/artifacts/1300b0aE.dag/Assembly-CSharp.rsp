@@ -578,7 +578,19 @@
 "Assets/Oculus/SampleFramework/Usage/TouchPro/Scripts/Ui/UiDeviceInspector.cs"
 "Assets/Oculus/SampleFramework/Usage/TouchPro/Scripts/Ui/UiSceneMenu.cs"
 "Assets/Oculus/SampleFramework/Usage/TouchPro/Scripts/Ui/UiVectorInspector.cs"
+"Assets/_Scripts/AnimationTrigger.cs"
+"Assets/_Scripts/ConstantRotation.cs"
+"Assets/_Scripts/FadeFromBlack.cs"
+"Assets/_Scripts/LevelData.cs"
+"Assets/_Scripts/LevelSpecificActivation.cs"
+"Assets/_Scripts/LightIntensityController.cs"
+"Assets/_Scripts/PhotoGallery.cs"
+"Assets/_Scripts/PhotoGalleryLevelManager.cs"
+"Assets/_Scripts/ScaleAndRotate.cs"
+"Assets/_Scripts/SceneLoader.cs"
 "Assets/_Scripts/SingleActiveShild.cs"
+"Assets/_Scripts/SliceController.cs"
+"Assets/_Scripts/SoundManager.cs"
 -langversion:9.0
 
 /deterministic
